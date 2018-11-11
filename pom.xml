@@ -28,10 +28,10 @@
                 <configuration>
                     <to>
                         <image>registry.hub.docker.com/avicennaai/testjib</image>
-                        <auth>
+                        <!--auth>
                             <username>avicennaai</username>
                             <password></password>
-                        </auth>
+                        </auth-->
 
                     </to>
                     <allowInsecureRegistries>true</allowInsecureRegistries>
